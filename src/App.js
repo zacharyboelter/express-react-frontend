@@ -14,7 +14,7 @@ function App() {
   const URL = "https://zdb-porto.herokuapp.com/";
 
   return (
-    <div className="App">
+    <div className="App" >
       <Header />
       <Switch>
         <Route exact path="/">
